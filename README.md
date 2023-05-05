@@ -11,7 +11,7 @@ In this study, we have proposed a one-dimensional Convolutional Neural network (
 
 ## Citation
 
-If you use [Epilipsy Code](https://github.com/manojkaushik/Epilipsy-Detection-using-the-CNN) code in your research, we would appreciate a citation to both the original paper:
+If you use [Epilipsy Code](https://github.com/manojkaushik/Epilipsy-Detection-using-the-CNN) code in your research, we would appreciate a citation to the original paper:
 
 	@article{kaushik2022deep,
 	  title={A deep learning approach for epilepsy seizure detection using EEG signals},
